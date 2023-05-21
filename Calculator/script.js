@@ -1,3 +1,4 @@
+alert("Keyboard also enabled.\nENTER => EQUAL TO\n")
 let infoDisplay = document.getElementById('info');
 let resultDisplay = document.getElementById('result');
 let keys = {
